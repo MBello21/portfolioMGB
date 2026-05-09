@@ -5,7 +5,7 @@ export const Footer = () => {
   return (
     <footer>
       <p>
-        © {new Date().getFullYear()} {d.name} · {d.footer}
+        © {new Date().getFullYear()} · {d.footer}
       </p>
     </footer>
   );
