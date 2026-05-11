@@ -2,7 +2,15 @@ import { DATA } from "../../utils/data";
 import './Hero.css'
 
 export const Hero = () => {
-    const d = DATA;
+  const d = DATA;
+
+  const scrollTo = (id)=>{
+    const element = document.getElementById(id);
+    if(element){
+      element.scrollIntoView({behavior:"smooth"})
+    }
+  }
+
   return (
     <section className="hero container">
       <div className="hero-grid-bg" />

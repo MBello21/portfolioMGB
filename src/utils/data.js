@@ -83,5 +83,5 @@ contact: [
 { label: "GitHub",     value: "github.com/MBello21",        url: "https://github.com/MBello21/" },
 ],
 
-footer: " © Miguel Ángel Garcia Bello 2026",
+footer: "Miguel Ángel Garcia Bello",
 };
