@@ -79,7 +79,7 @@ skills: [
 
 contact: [
 { label: "Email",      value: "info@mgbdevops.es",         url: "mailto:info@mgbdevops.es" },
-{ label: "LinkedIn",   value: "miguel-ángel-garcía-bello-ab962311b/",   url: "miguel-ángel-garcía-bello-ab962311b/" },
+{ label: "LinkedIn",   value: "Miguel Ángel García Bello",   url: "linkedin.com/miguel-ángel-garcía-bello-ab962311b/" },
 { label: "GitHub",     value: "github.com/MBello21",        url: "https://github.com/MBello21/" },
 ],
 
